@@ -1,1 +1,0 @@
-rom .config import settings
